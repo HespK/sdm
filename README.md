@@ -1,2 +1,2 @@
 # sdm
-Superminds Design Tool 
+Superminds Design Library 
